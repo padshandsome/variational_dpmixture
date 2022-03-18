@@ -1,3 +1,6 @@
+Dataset: cifar10
+https://www.cs.toronto.edu/~kriz/cifar.html
+
 Variational inference for Dirichlet Process mixture models with gaussian mixture components. 
 Based on the following paper:
 
