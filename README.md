@@ -1,6 +1,8 @@
 Dataset: cifar10
 https://www.cs.toronto.edu/~kriz/cifar.html
 
+Run the experiment: python test.py
+
 Variational inference for Dirichlet Process mixture models with gaussian mixture components. 
 Based on the following paper:
 
